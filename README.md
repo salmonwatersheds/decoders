@@ -9,9 +9,8 @@ In an attempt to centralize and streamline connections between SWP's datasets an
 
 To use these files, you can source them in your R code directly from this GitHub repo:
 
-``
-url <- "https://raw.githubusercontent.com/salmonwatersheds/decoders/main/all_regions_cu_du_smu_decoder.csv"
+`url <- "https://raw.githubusercontent.com/salmonwatersheds/decoders/main/all_regions_cu_du_smu_decoder.csv"`
 
-lookup <- read.csv(url)
+`lookup <- read.csv(url)`
 
 ``
