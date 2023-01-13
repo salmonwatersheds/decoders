@@ -1,0 +1,437 @@
+﻿Region,RegionAbbr,CUID,CULabel (PSE Display Name),CUName,CUIndex,RegionID,SppName,SppAbrr
+Skeena,SKNA,171,Alastair,Alastair,L_20_01,1,Lake Sockeye,SEL
+Skeena,SKNA,172,Mcdonell/Dennis/Aldrich,Aldrich,L_20_02,1,Lake Sockeye,SEL
+Skeena,SKNA,190,Asitika,Asitika,L_22_01,1,Lake Sockeye,SEL
+Skeena,SKNA,179,Morice/Atna,Atna,L_21_01,1,Lake Sockeye,SEL
+Skeena,SKNA,191,Azuklotz,Azuklotz,L_22_02,1,Lake Sockeye,SEL
+Skeena,SKNA,180,Babine/Onerka,Babine,L_21_02,1,Lake Sockeye,SEL
+Skeena,SKNA,204,Babine (enhanced),Babine-Pinkut,,1,Lake Sockeye,SEL
+Skeena,SKNA,203,Babine (enhanced),Babine (enhanced),,1,Lake Sockeye,SEL
+Skeena,SKNA,192,Bear,Bear,L_22_03,1,Lake Sockeye,SEL
+Skeena,SKNA,181,Bulkley/Maxan,Bulkley,L_21_03,1,Lake Sockeye,SEL
+Skeena,SKNA,182,Swan/Club,Club Lake,L_21_04,1,Lake Sockeye,SEL
+Skeena,SKNA,193,Damshilgwit,Damshilgwit,L_22_04,1,Lake Sockeye,SEL
+Skeena,SKNA,173,Mcdonell/Dennis/Aldrich,Dennis,L_20_03,1,Lake Sockeye,SEL
+Skeena,SKNA,174,Ecstall/Lower,Ecstall/Lower,L_20_04,1,Lake Sockeye,SEL
+Skeena,SKNA,230,Footsore/Hodder,Footsore/Hodder,,1,Lake Sockeye,SEL
+Skeena,SKNA,183,Gitanyow (Kitwanga/Kitwancool),Gitanyow,L_21_05,1,Lake Sockeye,SEL
+Skeena,SKNA,194,Johanson,Johanson,L_22_05,1,Lake Sockeye,SEL
+Skeena,SKNA,175,Johnston,Johnston,L_20_05,1,Lake Sockeye,SEL
+Skeena,SKNA,176,Kitsumkalum,Kitsumkalum,L_20_06,1,Lake Sockeye,SEL
+Skeena,SKNA,195,Kluatantan,Kluatantan,L_22_06,1,Lake Sockeye,SEL
+Skeena,SKNA,196,Kluayaz,Kluayaz,L_22_07,1,Lake Sockeye,SEL
+Skeena,SKNA,177,Lakelse,Lakelse,L_20_07,1,Lake Sockeye,SEL
+Skeena,SKNA,184,Bulkley/Maxan,Maxan,L_21_06,1,Lake Sockeye,SEL
+Skeena,SKNA,178,Mcdonell/Dennis/Aldrich,Mcdonell,L_20_08,1,Lake Sockeye,SEL
+Skeena,SKNA,185,Morice/Atna,Morice,L_21_07,1,Lake Sockeye,SEL
+Skeena,SKNA,197,Motase,Motase,L_22_08,1,Lake Sockeye,SEL
+Skeena,SKNA,186,Nilkitkwa,Nilkitkwa,L_21_08,1,Lake Sockeye,SEL
+Skeena,SKNA,243,Babine/Onerka,Onerka,,1,Lake Sockeye,SEL
+Skeena,SKNA,198,Sicintine,Sicintine,L_22_09,1,Lake Sockeye,SEL
+Skeena,SKNA,199,Slamgeesh,Slamgeesh,L_22_10,1,Lake Sockeye,SEL
+Skeena,SKNA,200,Spawning,Spawning,L_22_11,1,Lake Sockeye,SEL
+Skeena,SKNA,187,Stephens,Stephens,L_21_09,1,Lake Sockeye,SEL
+Skeena,SKNA,201,Sustut,Sustut,L_22_12,1,Lake Sockeye,SEL
+Skeena,SKNA,188,Swan/Club,Swan,L_21_10,1,Lake Sockeye,SEL
+Skeena,SKNA,189,Tahlo/Morrison,Tahlo/Morrison,L_21_11,1,Lake Sockeye,SEL
+Skeena,SKNA,226,Skeena River (river-type),Skeena River,,1,River Sockeye,SER
+Skeena,SKNA,216,Skeena River-High Interior (river-type),Skeena River-high interior,,1,River Sockeye,SER
+Skeena,SKNA,209,Lower Skeena River (odd),Lower Skeena (odd),,1,Pink (Odd),PKO
+Skeena,SKNA,213,Middle-Upper Skeena (odd),Middle & Upper Skeena (odd),,1,Pink (Odd),PKO
+Skeena,SKNA,223,Nass-Skeena Estuary (odd),Nass-Skeena Estuary (odd),,1,Pink (Odd),PKO
+Skeena,SKNA,218,Middle-Upper Skeena (even),Middle-Upper Skeena (even),,1,Pink (Even),PKE
+Skeena,SKNA,219,Nass-Skeena Estuary (even),Nass-Skeena Estuary (even),,1,Pink (Even),PKE
+Skeena,SKNA,219,Nass-Skeena Estuary (even),Nass-Skeena Estuary (even),,1,Pink (Even),PKE
+Skeena,SKNA,205,Ecstall,Ecstall,,1,Chinook,CK
+Skeena,SKNA,206,Kalum-Early,Kalum-early timing,,1,Chinook,CK
+Skeena,SKNA,207,Kalum-Late,Kalum-late timing,,1,Chinook,CK
+Skeena,SKNA,227,Lakelse,Lakelse-CK,,1,Chinook,CK
+Skeena,SKNA,210,Lower Skeena,Lower Skeena-CK,,1,Chinook,CK
+Skeena,SKNA,222,Middle Skeena-Large Lakes,Middle Skeena-large lakes,,1,Chinook,CK
+Skeena,SKNA,217,Middle Skeena-Mainstem Tributaries,Middle Skeena-mainstem tributaries,,1,Chinook,CK
+Skeena,SKNA,241,Sicintine,Sicintine,,1,Chinook,CK
+Skeena,SKNA,224,Skeena Estuary,Skeena Estuary-CK,,1,Chinook,CK
+Skeena,SKNA,221,Upper Bulkley River,Upper Bulkley River,,1,Chinook,CK
+Skeena,SKNA,212,Upper Skeena,Upper Skeena-CK,,1,Chinook,CK
+Skeena,SKNA,229,Zymoetz,Zymoetz,,1,Chinook,CK
+Skeena,SKNA,202,Lower Skeena,Lower Skeena-CO,,1,Coho,CO
+Skeena,SKNA,215,Middle Skeena,Middle Skeena-CO,,1,Coho,CO
+Skeena,SKNA,225,Skeena Estuary,Skeena Estuary-CO,,1,Coho,CO
+Skeena,SKNA,231,Upper Skeena,Upper Skeena-CO,,1,Coho,CO
+Skeena,SKNA,211,Lower Skeena,Lower Skeena-CM,,1,Chum,CM
+Skeena,SKNA,214,Middle Skeena,Middle Skeena-CM,,1,Chum,CM
+Skeena,SKNA,220,Skeena Estuary,Skeena Estuary-CM,,1,Chum,CM
+Skeena,SKNA,242,Upper Skeena,Upper Skeena,,1,Chum,CM
+Nass,NASS,420,Bowser,Bowser,,2,Lake Sockeye,SEL
+Nass,NASS,418,Clements,Clements,,2,Lake Sockeye,SEL
+Nass,NASS,421,Damdochax,Damdochax,,2,Lake Sockeye,SEL
+Nass,NASS,422,Fred Wright,Fred Wright,,2,Lake Sockeye,SEL
+Nass,NASS,423,Kwinageese,Kwinageese,,2,Lake Sockeye,SEL
+Nass,NASS,419,Leverson,Leverson,,2,Lake Sockeye,SEL
+Nass,NASS,424,Meziadin,Meziadin,,2,Lake Sockeye,SEL
+Nass,NASS,425,Oweegee,Oweegee,,2,Lake Sockeye,SEL
+Nass,NASS,426,Lower Nass-Portland (river-type),Lower Nass-Portland,,2,River Sockeye,SER
+Nass,NASS,427,Upper Nass River (river-type),Upper Nass River,,2,River Sockeye,SER
+Nass,NASS,414,Nass-Portland-Observatory (odd),Nass-Portland-Observatory,,2,Pink (Odd),PKO
+Nass,NASS,415,Upper Nass (odd),Upper Nass,,2,Pink (Odd),PKO
+Nass,NASS,412,Upper Nass (even),Upper Nass,,2,Pink (Even),PKE
+Nass,NASS,401,Portland Sound-Observatory Inlet-Lower Nass,Portland Sound-Observatory Inlet-Lower Nass,,2,Chinook,CK
+Nass,NASS,402,Upper Nass,Upper Nass,,2,Chinook,CK
+Nass,NASS,408,Lower Nass,Lower Nass,,2,Coho,CO
+Nass,NASS,410,Portland Sound-Observatory Inlet-Portland Canal,Portland Sound-Observatory Inlet-Portland Canal,,2,Coho,CO
+Nass,NASS,409,Upper Nass,Upper Nass,,2,Coho,CO
+Nass,NASS,405,Lower Nass,Lower Nass,,2,Chum,CM
+Nass,NASS,406,Portland Canal-Observatory,Portland Canal-Observatory,,2,Chum,CM
+Nass,NASS,404,Portland Inlet,Portland Inlet,,2,Chum,CM
+Central Coast,CC,529,Backland,Backland (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,540,Banks,Banks (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,541,Bloomfield,Bloomfield (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,542,Bolton Creek,Bolton Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,543,Bonilla,Bonilla (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,544,Borrowman Creek,Borrowman Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,545,Busey Creek,Busey Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,532,Canoona,Canoona (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,546,Cartwright Creek,Cartwright Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,547,Chic Chic,Chic Chic (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,548,Citeyats,Citeyats (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,550,Curtis Inlet,Curtis Inlet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,551,Dallain Creek,Dallain Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,552,Deer,Deer (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,553,Devon,Devon (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,533,Dome,Dome (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,554,Douglas Creek,Douglas Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,555,Elizabeth,Elizabeth (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,556,Elsie/Hoy,Elsie/Hoy (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,557,End Hill Creek,End Hill Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,534,Evelyn,Evelyn (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,558,Evinrude Inlet,Evinrude Inlet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,549,Fannie Cove,Fannie Cove (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,559,Freeda,Freeda (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,560,Hartley Bay,Hartley Bay (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,561,Hevenor Inlet,Hevenor Inlet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,562,Higgins Lagoon,Higgins Lagoon (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,563,Kadjusdis River,Kadjusdis River (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,535,Kainet Creek,Kainet Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,564,Kdelmashan Creek,Kdelmashan Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,565,Keecha,Keecha (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,566,Kent Inlet Lagoon Creek,Kent Inlet Lagoon Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,567,Kenzuwash Creeks,Kenzuwash Creeks (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,568,Keswar Creek,Keswar Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,569,Kildidt Creek,Kildidt Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,570,Kildidt Lagoon Creek,Kildidt Lagoon Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,536,Kimsquit,Kimsquit (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,571,Kisameet,Kisameet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,537,Kitkiata,Kitkiata (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,538,Kitlope,Kitlope (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,572,Koeye,Koeye (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,573,Kooryet,Kooryet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,574,Kunsoot River,Kunsoot River (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,575,Kwakwa Creek,Kwakwa Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,576,Lewis Creek,Lewis Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,577,Limestone Creek,Limestone Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,524,Long,Long (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,578,Lowe/Simpson/Weir,Lowe/Simpson/Weir (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,579,Mary Cove Creek,Mary Cove Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,580,Mcdonald Creek,Mcdonald Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,581,Mcloughlin,Mcloughlin (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,582,Mikado,Mikado (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,583,Monckton Inlet Creek,Monckton Inlet Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,584,Namu,Namu (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,525,Owikeno,Owikeno (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,539,Pine River,Pine River (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,585,Port John,Port John (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,586,Powles Creek,Powles Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,587,Price Creek,Price Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,588,Roderick,Roderick (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,589,Ryan Creek,Ryan Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,590,Salter,Salter (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,591,Scoular/Kilpatrick,Scoular/Kilpatrick (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,592,Sheneeza Inlet,Sheneeza Inlet (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,593,Ship Point Creek,Ship Point Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,530,Soda Creek,Soda Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,528,South Atnarko Lakes,South Atnarko Lakes (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,594,Spencer Creek,Spencer Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,595,Stannard Creek,Stannard Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,596,Talamoosa Creek,Talamoosa Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,597,Tankeeah River,Tankeeah River (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,598,Treneman Creek,Treneman Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,599,Tsimtack/Moore/Roger,Tsimtack/Moore/Roger (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,600,Tuno Creek East,Tuno Creek East (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,601,Tuno Creek West,Tuno Creek West (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,602,Tyler Creek,Tyler Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,603,Wale Creek,Wale Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,527,Wannock (Owikeno),Wannock[Owikeno] (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,604,Watt Bay,Watt Bay (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,605,West Creek,West Creek (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,606,Yaaklele Lagoon,Yaaklele Lagoon (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,607,Yeo,Yeo (Sockeye-Lake),,3,Lake Sockeye,SEL
+Central Coast,CC,614,Northern Coastal Fjords (river-type),Northern Coastal Fjords (Sockeye-River),R16,3,River Sockeye,SER
+Central Coast,CC,615,Northern Coastal Streams (river-type),Northn Coastal Streams (Sockeye-River),R17,3,River Sockeye,SER
+Central Coast,CC,615,Northern Coastal Streams (river-type),Northn Coastal Streams (Sockeye-River),R17,3,River Sockeye,SER
+Central Coast,CC,613,Rivers-Smith Inlets (river-type),Rivers-Smith Inlets (Sockeye-River),R12,3,River Sockeye,SER
+Central Coast,CC,612,Hecate Strait-Fjords (odd),Hecate Strait-Fjords (Pink-Odd Year),13,3,Pink (Odd),PKO
+Central Coast,CC,611,Hecate Strait-Lowlands (odd),Hecate Strait-Lowlands (Pink-Odd Year),12,3,Pink (Odd),PKO
+Central Coast,CC,610,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd),Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (Pink-Odd Year),8,3,Pink (Odd),PKO
+Central Coast,CC,610,Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (odd),Homathko-Klinaklini-Smith-Rivers-Bella Coola-Dean (Pink-Odd Year),8,3,Pink (Odd),PKO
+Central Coast,CC,608,Hecate Lowlands (even),Hecate Lowlands (Pink-Even Year),5,3,Pink (Even),PKE
+Central Coast,CC,609,Hecate Strait-Fjords (even),Hecate Strait-Fjords (Pink-Even Year),6,3,Pink (Even),PKE
+Central Coast,CC,512,Bella Coola-Bentinck,Bella Coola-Bentinck (Chinook),39,3,Chinook,CK
+Central Coast,CC,513,Dean River,Dean River (Chinook),40,3,Chinook,CK
+Central Coast,CC,509,Docee,Docee (Chinook),36,3,Chinook,CK
+Central Coast,CC,515,North & Central Coast-Early,North & Central Coast-early timing (Chinook),42,3,Chinook,CK
+Central Coast,CC,514,North & Central Coast-Late,North & Central Coast-late timing (Chinook),41,3,Chinook,CK
+Central Coast,CC,510,Rivers Inlet,Rivers Inlet (Chinook),37,3,Chinook,CK
+Central Coast,CC,511,Wannock,Wannock (Chinook),38,3,Chinook,CK
+Central Coast,CC,518,Bella Coola-Dean Rivers,Bella Coola-Dean Rivers (Coho),22,3,Coho,CO
+Central Coast,CC,521,Brim-Wahoo,Brim-Wahoo (Coho),28,3,Coho,CO
+Central Coast,CC,522,Douglas Channel-Kitimat Arm,Douglas Channel-Kitimat Arm (Coho),29,3,Coho,CO
+Central Coast,CC,520,Hecate Strait Mainland,Hecate Strait Mainland (Coho),27,3,Coho,CO
+Central Coast,CC,520,Hecate Strait Mainland,Hecate Strait Mainland (Coho),27,3,Coho,CO
+Central Coast,CC,519,Mussel-Kynoch,Mussel-Kynoch (Coho),26,3,Coho,CO
+Central Coast,CC,523,Northern Coastal Streams,Northern Coastal Streams (Coho),30,3,Coho,CO
+Central Coast,CC,517,Rivers Inlet,Rivers Inlet (Coho),21,3,Coho,CO
+Central Coast,CC,516,Smith Inlet,Smith Inlet (Coho),20,3,Coho,CO
+Central Coast,CC,504,Bella Coola-Dean Rivers,Bella Coola-Dean Rivers (Chum),16,3,Chum,CM
+Central Coast,CC,505,Bella Coola River-Late,Bella Coola River-Late (Chum),17,3,Chum,CM
+Central Coast,CC,508,Douglas-Gardner,Douglas-Gardner (Chum),20,3,Chum,CM
+Central Coast,CC,506,Hecate Lowlands,Hecate Lowlands (Chum),18,3,Chum,CM
+Central Coast,CC,507,Mussel-Kynoch,Mussel-Kynock (Chum),19,3,Chum,CM
+Central Coast,CC,501,Rivers Inlet,Rivers Inlet (Chum),13,3,Chum,CM
+Central Coast,CC,500,Smith Inlet,Smith Inlet (Chum),12,3,Chum,CM
+Central Coast,CC,503,Spiller-Fitz-Hugh-Burke,Spiller-Fitz-Hugh-Burke (Chum),15,3,Chum,CM
+Central Coast,CC,502,Wannock,Wannock (Chum),14,3,Chum,CM
+Fraser,FRSR,751,Adams & Momich Lakes-Early Summer,Adams and Momich Lakes_Early Summer,SEL-09-912,4,Lake Sockeye,SEL
+Fraser,FRSR,719,Anderson-Seton-Early Summer,Anderson/Seton_Early Summer,SEL-06-001,4,Lake Sockeye,SEL
+Fraser,FRSR,735,Bowron-Early Summer,Bowron_Early Summer,SEL-07-001,4,Lake Sockeye,SEL
+Fraser,FRSR,720,Chilko-Early Summer,Chilko_Early Summer,SEL-06-002,4,Lake Sockeye,SEL
+Fraser,FRSR,721,Chilko-Summer,Chilko_Summer,SEL-06-003,4,Lake Sockeye,SEL
+Fraser,FRSR,711,Chilliwack-Early Summer,Chilliwack_Early Summer,SEL-03-001,4,Lake Sockeye,SEL
+Fraser,FRSR,712,Cultus-Late,Cultus_Late,SEL-03-002,4,Lake Sockeye,SEL
+Fraser,FRSR,725,Francois-Fraser-Summer,Francois/Fraser_Summer,SEL-06-007,4,Lake Sockeye,SEL
+Fraser,FRSR,713,Harrison-Downstream Migrating-Late,Harrison-downstream migrating_Late,SEL-03-003,4,Lake Sockeye,SEL
+Fraser,FRSR,714,Harrison-Upstream Migrating-Late,Harrison-upstream migrating_Late,SEL-03-004,4,Lake Sockeye,SEL
+Fraser,FRSR,740,Kamloops-Early Summer,Kamloops_Early Summer,SEL-10-001,4,Lake Sockeye,SEL
+Fraser,FRSR,716,Lillooet-Harrison-Late,Lillooet/Harrison_Late,SEL-04-001,4,Lake Sockeye,SEL
+Fraser,FRSR,727,Nadina-Francois-Early Summer,Nadina/Francois_Early Summer,SEL-06-020,4,Lake Sockeye,SEL
+Fraser,FRSR,718,Nahatlatch-Early Summer,Nahatlatch_Early Summer,SEL-05-002,4,Lake Sockeye,SEL
+Fraser,FRSR,752,North Barriere-Early Summer,North Barriere_Early Summer,SEL-10-003,4,Lake Sockeye,SEL
+Fraser,FRSR,715,Pitt-Early Summer,Pitt_Early Summer,SEL-03-005,4,Lake Sockeye,SEL
+Fraser,FRSR,728,Quesnel-Summer,Quesnel_Summer,SEL-06-010,4,Lake Sockeye,SEL
+Fraser,FRSR,729,Seton-Late,Seton_Late,SEL-06-011,4,Lake Sockeye,SEL
+Fraser,FRSR,738,Shuswap-Early Summer,Shuswap_Early Summer,SEL-09-002,4,Lake Sockeye,SEL
+Fraser,FRSR,739,Shuswap-Late,Shuswap_Late,SEL-09-003,4,Lake Sockeye,SEL
+Fraser,FRSR,731,Takla-Trembleur-Stuart-Summer,Takla/Trembleur/Stuart_Summer,SEL-06-013,4,Lake Sockeye,SEL
+Fraser,FRSR,732,Takla-Trembleur-Early Stuart,Takla/Trembleur_Early Stuart,SEL-06-014,4,Lake Sockeye,SEL
+Fraser,FRSR,734,Taseko-Early Summer,Taseko_Early Summer,SEL-06-016,4,Lake Sockeye,SEL
+Fraser,FRSR,745,Harrison River (river-type),Harrison River,SER-003,4,River Sockeye,SER
+Fraser,FRSR,742,Widgeon (river-type),Widgeon,SER-002,4,River Sockeye,SER
+Fraser,FRSR,710,Fraser River (odd),Fraser River,PKO-001,4,Pink (Odd),PKO
+Fraser,FRSR,302,Boundary Bay (Fall 0.3),CK002-Boundary Bay_FA_0.3,CK-002,4,Chinook,CK
+Fraser,FRSR,303,Lower Fraser River (Fall 0.3),CK003-Lower Fraser River_FA_0.3,CK-003,4,Chinook,CK
+Fraser,FRSR,304,Lower Fraser River (Spring 1.3),CK004-Lower Fraser River_SP_1.3,CK-004,4,Chinook,CK
+Fraser,FRSR,305,Lower Fraser River-Upper Pitt (Summer 1.3),CK005-Lower Fraser River-Upper Pitt_SU_1.3,CK-005,4,Chinook,CK
+Fraser,FRSR,306,Lower Fraser River (Summer 1.3),CK006-Lower Fraser River_SU_1.3,CK-006,4,Chinook,CK
+Fraser,FRSR,307,Lower Fraser River-Maria Slough (Summer 0.3),CK007-Maria Slough_SU_0.3,CK-007,4,Chinook,CK
+Fraser,FRSR,308,Fraser Canyon-Nahatlatch (Spring 1.3),CK008-Middle Fraser-Fraser Canyon_SP_1.3,CK-008,4,Chinook,CK
+Fraser,FRSR,309,Middle Fraser River-Portage (Fall 1.3),CK009-Middle Fraser River-Portage_FA_1.3,CK-009,4,Chinook,CK
+Fraser,FRSR,310,Middle Fraser River (Spring 1.3),CK010-Middle Fraser River_SP_1.3,CK-010,4,Chinook,CK
+Fraser,FRSR,311,Middle Fraser River (Summer 1.3),CK011-Middle Fraser River_SU_1.3,CK-011,4,Chinook,CK
+Fraser,FRSR,312,Upper Fraser River (Spring 1.3),CK012-Upper Fraser River_SP_1.3,CK-012,4,Chinook,CK
+Fraser,FRSR,313,South Thompson River (Summer 0.3),CK013-South Thompson_SU_0.3,CK-013,4,Chinook,CK
+Fraser,FRSR,314,South Thompson River (Summer 1.3),CK014-South Thompson_SU_1.3,CK-014,4,Chinook,CK
+Fraser,FRSR,315,Shuswap River (Summer 0.3),CK015-Shuswap River_SU_0.3,CK-015,4,Chinook,CK
+Fraser,FRSR,316,South Thompson River-Bessette Creek (Summer1.2),CK016-South Thompson-Bessette Creek_SU_1.2,CK-016,4,Chinook,CK
+Fraser,FRSR,317,Lower Thompson River (Spring 1.2),CK017-Lower Thompson_SP_1.2,CK-017,4,Chinook,CK
+Fraser,FRSR,318,North Thompson River (Spring 1.3),CK018-North Thompson_SP_1.3,CK-018,4,Chinook,CK
+Fraser,FRSR,319,North Thompson River (Summer 1.3),CK019-North Thompson_SU_1.3,CK-019,4,Chinook,CK
+Fraser,FRSR,333,South Thompson-Adams River Upper,CK082-Upper Adams River_SU_x.x,CK-082,4,Chinook,CK
+Fraser,FRSR,335,Fraser-Harrison Fall Transplant (Fall 0.3),Fraser-Harrison fall transplant_FA_0.3,CK-9008,4,Chinook,CK
+Fraser,FRSR,906,Boundary Bay,Boundary Bay,CO-001,4,Coho,CO
+Fraser,FRSR,705,Fraser Canyon,Fraser Canyon,CO-005,4,Coho,CO
+Fraser,FRSR,749,Interior Fraser,Interior Fraser,CO-048,4,Coho,CO
+Fraser,FRSR,704,Lillooet,Lillooet,CO-004,4,Coho,CO
+Fraser,FRSR,750,Lower Fraser,Lower Fraser,CO-047,4,Coho,CO
+Fraser,FRSR,707,Lower Thompson,Lower Thompson,CO-007,4,Coho,CO
+Fraser,FRSR,709,North Thompson,North Thompson,CO-009,4,Coho,CO
+Fraser,FRSR,708,South Thompson,South Thompson,CO-008,4,Coho,CO
+Fraser,FRSR,701,Lower Fraser,Lower Fraser,CM-002,4,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,945,Alice,Alice,SEL-13-001,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,946,Canoe Creek,Canoe Creek,SEL-13-002,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,947,Cecilia,Cecilia,SEL-13-003,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,948,Cheewat,Cheewat,SEL-13-004,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,949,Clayoquot,Clayoquot,SEL-13-005,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,950,Deserted,Deserted,SEL-13-006,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,951,Fairy,Fairy,SEL-13-007,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,927,Fulmore,Fulmore,SEL-11-001,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,952,Great Central,Great Central,SEL-13-008,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,953,Henderson,Henderson,SEL-13-009,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,954,Hesquiat,Hesquiat,SEL-13-010,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,928,Heydon,Heydon,SEL-11-002,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,955,Hobiton,Hobiton,SEL-13-011,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,937,Ida-Bonanza,Ida/Bonanza,SEL-12-001,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,956,Jansen,Jansen,SEL-13-012,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,929,Kakweiken,Kakweiken,SEL-11-003,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,957,Kanim,Kanim,SEL-13-013,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,958,Kennedy,Kennedy,SEL-13-014,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,930,Loose,Loose,SEL-11-004,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,931,Mackenzie,Mackenzie,SEL-11-005,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,959,Maggie,Maggie,SEL-13-015,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,960,Megin,Megin,SEL-13-016,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,961,Muchalat,Muchalat,SEL-13-017,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,962,Muriel,Muriel,SEL-13-018,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,938,Nahwitti,Nahwitti,SEL-12-002,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,939,Nimpkish,Nimpkish,SEL-12-003,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,963,Nitinat,Nitinat,SEL-13-019,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,964,O'Connell,O'Connell,SEL-13-020,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,966,Park River,Park River,SEL-13-022,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,932,Phillips,Phillips,SEL-11-006,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,967,Power,Power,SEL-13-023,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,941,Quatse,Quatse,SEL-12-005,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,933,Sakinaw,Sakinaw,SEL-11-007,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,942,Schoen,Schoen,SEL-12-006,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,943,Shushartie,Shushartie,SEL-12-007,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,969,Sproat,Sproat,SEL-13-025,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,935,Tzoonie,Tzoonie,SEL-11-009,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,976,Vernon,Vernon,SEL-12-009,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,936,Village Bay,Village Bay,SEL-11-010,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,970,William-Brink,William/Brink,SEL-13-026,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,944,Woss,Woss,SEL-12-008,5,Lake Sockeye,SEL
+Vancouver Island & Mainland Inlets,VIMI,973,East Vancouver Island & Georgia Strait (river-type),East Vancouver Island and Georgia Strait,SER-008,5,River Sockeye,SER
+Vancouver Island & Mainland Inlets,VIMI,974,NW Vancouver Island (river-type),NW Vancouver Island,SER-011,5,River Sockeye,SER
+Vancouver Island & Mainland Inlets,VIMI,971,Southern Fjords (river-type),Southern Fjords,SER-009,5,River Sockeye,SER
+Vancouver Island & Mainland Inlets,VIMI,972,West Vancouver Island (river-type),West Vancouver Island,SER-010,5,River Sockeye,SER
+Vancouver Island & Mainland Inlets,VIMI,921,East Howe Sound-Burrard Inlet (odd),East Howe Sound-Burrard Inlet,PKO-002,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,923,East Vancouver Island-Johnstone Strait (odd),East Vancouver Island-Johnstone Strait,PKO-004,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,922,Georgia Strait (odd),Georgia Strait,PKO-003,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,924,Nahwitti (odd),Nahwitti,PKO-005,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,926,Southern Fjords (odd),Southern Fjords,PKO-007,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,925,West Vancouver Island (odd),West Vancouver Island,PKO-006,5,Pink (Odd),PKO
+Vancouver Island & Mainland Inlets,VIMI,917,Georgia Strait (even),Georgia Strait,PKE-001,5,Pink (Even),PKE
+Vancouver Island & Mainland Inlets,VIMI,919,Northwest Vancouver Island (even),Northwest Vancouver Island,PKE-003,5,Pink (Even),PKE
+Vancouver Island & Mainland Inlets,VIMI,920,Southern Fjords (even),Southern Fjords,PKE-004,5,Pink (Even),PKE
+Vancouver Island & Mainland Inlets,VIMI,918,West Vancouver Island (even),West Vancouver Island,PKE-002,5,Pink (Even),PKE
+Vancouver Island & Mainland Inlets,VIMI,320,Southern Mainland-Georgia Strait (Fall 0.x),CK020-Southern Mainland-Georgia Strait_FA_0.x,CK-020,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,321,East Vancouver Island-Goldstream (Fall 0.x),CK021-East Vancouver Island-Goldstream_FA_0.x,CK-021,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,322,East Vancouver Island-Cowichan and Koksilah (Fall 0.x),CK022-East Vancouver Island-Cowichan and Koksilah_FA_0.x,CK-022,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,323,East Vancouver Island-Nanaimo (Spring 1.x),CK023-East Vancouver Island-Nanaimo_SP_1.x,CK-023,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,324,East Vancouver Island-Nanaimo and Chemainus (Fall 0.x),CK025-East Vancouver Island-Nanaimo and Chemainus_FA_0.x,CK-025,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,325,East Vancouver Island-Qualicum and Puntledge (Fall 0.x),CK027-East Vancouver Island-Qualicum and Puntledge_FA_0.x,CK-027,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,326,Southern Mainland-Southern Fjords (Fall 0.x),CK028-Southern Mainland-Southern Fjords_FA_0.x,CK-028,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,327,East Vancouver Island-North (Fall 0.x),CK029-East Vancouver Island-North_FA_0.x,CK-029,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,328,West Vancouver Island-South (Fall 0.x),CK031-West Vancouver Island-South_FA_0.x,CK-031,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,329,West Vancouver Island-Nootka and Kyuquot (Fall 0.x),CK032-West Vancouver Island-Nootka and Kyuquot_FA_0.x,CK-032,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,330,West Vancouver Island-North (Fall 0.x),CK033-West Vancouver Island-North_FA_0.x,CK-033,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,331,Homathko (Summer x.x),CK034-Homathko_SU_x.x,CK-034,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,332,Klinaklini (Summer 1.3),CK035-Klinaklini_SU_1.3,CK-035,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,334,East Vancouver Island-Georgia Strait (Summer 0.3),CK083-East Vancouver Island-Georgia Strait_SU_0.3,CK-083,5,Chinook,CK
+Vancouver Island & Mainland Inlets,VIMI,915,Clayoquot,Clayoquot,CO-018,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,910,East Vancouver Island-Georgia Strait,East Vancouver Island-Georgia Strait,CO-013,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,911,East Vancouver Island-Johnstone Strait-Southern Fjords,East Vancouver Island-Johnstone Strait-Southern Fjords,CO-014,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,908,Georgia Strait Mainland,Georgia Strait Mainland,CO-011,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,916,Homathko-Klinaklini Rivers,Homathko-Klinaklini Rivers,CO-019,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,907,Howe Sound-Burrard Inlet,Howe Sound-Burrard Inlet,CO-010,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,913,Juan de Fuca-Pachena,Juan de Fuca-Pachena,CO-016,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,912,Nahwitti Lowland,Nahwitti Lowland,CO-015,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,909,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords,Southern Coastal Streams-Queen Charlotte Strait-Johnstone Strait-Southern Fjords,CO-012,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,914,West Vancouver Island,West Vancouver Island,CO-017,5,Coho,CO
+Vancouver Island & Mainland Inlets,VIMI,901,Bute Inlet,Bute Inlet,CM-007,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,904,Georgia Strait,Georgia Strait,CM-004,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,905,Howe Sound-Burrand Inlet,Howe Sound-Burrard Inlet,CM-003,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,902,Loughborough,Loughborough,CM-006,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,903,Northeast Vancouver Island,Northeast Vancouver Island,CM-005,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,977,Northwest Vancouver Island,Northwest Vancouver Island,CM-011,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,900,Southern Coastal Streams,Southern Coastal Streams,CM-008,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,978,Southwest & West Vancouver Island,Southwest & West  Vancouver Island,CM-010,5,Chum,CM
+Vancouver Island & Mainland Inlets,VIMI,979,Upper Knight,Upper Knight,CM-009,5,Chum,CM
+Columbia,CLMB,1300,Osoyoos,Osoyoos,SEL-01-001,7,Lake Sockeye,SEL
+Columbia,CLMB,301,Okanagan,CK001-Okanagan_1.x,CK-001,7,Chinook,CK
+AlaskaTransboundary,AKTR,1000,Lynn Canal,Lynn Canal,CM-037,10,Chum,CM
+AlaskaTransboundary,AKTR,1001,Taku,Taku,CM-036,10,Chum,CM
+AlaskaTransboundary,AKTR,1002,Whiting,Whiting,CM-035,10,Chum,CM
+AlaskaTransboundary,AKTR,1003,Unuk,Unuk,CM-033,10,Chum,CM
+AlaskaTransboundary,AKTR,1004,Alsek,CK067-Alsek,CK-067,10,Chinook,CK
+AlaskaTransboundary,AKTR,1005,Lynn Canal,CK066-Lynn Canal,CK-066,10,Chinook,CK
+AlaskaTransboundary,AKTR,1006,Taku-early timing,CK063-Taku_early timing,CK-063,10,Chinook,CK
+AlaskaTransboundary,AKTR,1007,Taku-mid timing,CK064-Taku_mid timing,CK-064,10,Chinook,CK
+AlaskaTransboundary,AKTR,1008,Taku-late timing,CK065-Taku_late timing,CK-065,10,Chinook,CK
+AlaskaTransboundary,AKTR,1009,Whiting,CK062-Whiting,CK-062,10,Chinook,CK
+AlaskaTransboundary,AKTR,1010,Stikine-early timing,CK060-Stikine_early timing,CK-060,10,Chinook,CK
+AlaskaTransboundary,AKTR,1011,Stikine-late timing,CK061-Stikine_late timing,CK-061,10,Chinook,CK
+AlaskaTransboundary,AKTR,1012,Unuk,CK059-Unuk,CK-059,10,Chinook,CK
+AlaskaTransboundary,AKTR,1013,Alsek River,Alsek River,CO-045,10,Coho,CO
+AlaskaTransboundary,AKTR,1014,Lynn Canal,Lynn Canal,CO-044,10,Coho,CO
+AlaskaTransboundary,AKTR,1015,Taku-late timing,Taku-late timing,CO-041,10,Coho,CO
+AlaskaTransboundary,AKTR,1016,Whiting River,Whiting River,CO-040,10,Coho,CO
+AlaskaTransboundary,AKTR,1017,Lower Stikine,Lower Stikine,CO-039,10,Coho,CO
+AlaskaTransboundary,AKTR,1018,Unuk River,Unuk River,CO-038,10,Coho,CO
+AlaskaTransboundary,AKTR,1019,Transboundary Fjords,Transboundary Fjords,PKE-013,10,Pink (Even),PKE
+AlaskaTransboundary,AKTR,1020,Transboundary Fjords,Transboundary Fjords,PKO-019,10,Pink (Odd),PKO
+AlaskaTransboundary,AKTR,1021,Alsek River,Alsek River,SER-024,10,River Sockeye,SER
+AlaskaTransboundary,AKTR,1022,Chilkat River,Chilkat River,SER-023,10,River Sockeye,SER
+AlaskaTransboundary,AKTR,1023,Northern Transboundary Fjords,Northern Transboundary Fjords,SER-022,10,River Sockeye,SER
+AlaskaTransboundary,AKTR,1024,Border,Border,SEL-25-001,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1025,Christina,Christina,SEL-26-001,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1026,Tahltan,Tahltan,SEL-26-002,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1027,Kuthai,Kuthai,SEL-28-001,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1028,Little Trapper,Little Trapper,SEL-28-002,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1029,Tatsamenie,Tatsamenie,SEL-28-003,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1031,Blanchard,Blanchard,SEL-30-001,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1032,Lower Stikine,Lower Stikine,CM-034,10,Chum,CM
+AlaskaTransboundary,AKTR,1033,King Salmon,King Salmon,SEL-28-005,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1034,Taku-early timing,Taku-early timing,CO-043,10,Coho,CO
+AlaskaTransboundary,AKTR,1035,Taku-mid timing,Taku-mid timing,CO-042,10,Coho,CO
+AlaskaTransboundary,AKTR,1036,Chutine,Chutine,SEL-26-003,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1037,Whiting,Whiting,SEL-27-001,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1038,Klukshu,Klukshu,SEL-30-002,10,Lake Sockeye,SEL
+AlaskaTransboundary,AKTR,1039,Neskatahin,Neskatahin,SEL-30-003,10,Lake Sockeye,SEL
+Mackenzie/Arctic,MAC,1101,Lower Liard,Lower Liard,CM-039,9,Chum,CM
+Mackenzie/Arctic,MAC,1102,Peel River,Peel River,CM-040,9,Chum,CM
+Yukon,YK,1201,Big Salmon,CK070-Big Salmon,CK-070,8,Chinook,CK
+HaidaGwaii,HG,806,Queen Charlotte Island-east,Queen Charlotte Island-east,CK-044,6,Chinook,CK
+HaidaGwaii,HG,805,Queen Charlotte Island-north,Queen Charlotte Island-north,CK-043,6,Chinook,CK
+HaidaGwaii,HG,801,East QCI,East QCI,CM-021,6,Chum,CM
+HaidaGwaii,HG,802,North QCI,North QCI,CM-024,6,Chum,CM
+HaidaGwaii,HG,800,North QCI-Stanley Creek,North QCI-Stanley Creek,CM-025,6,Chum,CM
+HaidaGwaii,HG,804,Skidegate,Skidegate,CM-022,6,Chum,CM
+HaidaGwaii,HG,803,West QCI,West QCI,CM-023,6,Chum,CM
+HaidaGwaii,HG,809,QCI-Graham Islands Lowlands,QCI-Graham Islands Lowlands,CO-025,6,Coho,CO
+HaidaGwaii,HG,807,Queen Charlottes - Hecate Strait-QC Sound (QCI East),Queen Charlottes - Hecate Strait-QC Sound (QCI East),CO-023,6,Coho,CO
+HaidaGwaii,HG,808,Queen Charlottes - Outer Graham Island (QCI west),Queen Charlottes - Outer Graham Island (QCI west),CO-024,6,Coho,CO
+HaidaGwaii,HG,811,East Queen Charlotte Islands,East Queen Charlotte Islands,PKE-010,6,Pink (Even),PKE
+HaidaGwaii,HG,810,North Queen Charlotte Islands,North Queen Charlotte Islands,PKE-009,6,Pink (Even),PKE
+HaidaGwaii,HG,812,West Queen Charlotte Islands,West Queen Charlotte Islands,PKE-011,6,Pink (Even),PKE
+HaidaGwaii,HG,813,East Queen Charlotte Islands,East Queen Charlotte Islands,PKO-009,6,Pink (Odd),PKO
+HaidaGwaii,HG,814,North Queen Charlotte Islands,North Queen Charlotte Islands,PKO-010,6,Pink (Odd),PKO
+HaidaGwaii,HG,815,West Queen Charlotte Islands,West Queen Charlotte Islands,PKO-011,6,Pink (Odd),PKO
+HaidaGwaii,HG,819,Ain/Skundale/Ian,Ain/Skundale/Ian,SEL-17-001,6,Lake Sockeye,SEL
+HaidaGwaii,HG,820,Awun,Awun,SEL-17-002,6,Lake Sockeye,SEL
+HaidaGwaii,HG,821,Fairfax,Fairfax,SEL-17-003,6,Lake Sockeye,SEL
+HaidaGwaii,HG,822,Jalun,Jalun,SEL-17-004,6,Lake Sockeye,SEL
+HaidaGwaii,HG,823,Marian,Marian,SEL-17-005,6,Lake Sockeye,SEL
+HaidaGwaii,HG,828,Marie,Marie,SEL-17-010,6,Lake Sockeye,SEL
+HaidaGwaii,HG,824,Mathers,Mathers,SEL-17-006,6,Lake Sockeye,SEL
+HaidaGwaii,HG,825,Mercer,Mercer,SEL-17-007,6,Lake Sockeye,SEL
+HaidaGwaii,HG,826,Skidegate,Skidegate,SEL-17-008,6,Lake Sockeye,SEL
+HaidaGwaii,HG,827,Yakoun,Yakoun,SEL-17-009,6,Lake Sockeye,SEL
+HaidaGwaii,HG,816,East Queen Charlotte Islands,East Queen Charlotte Islands,SER-013,6,River Sockeye,SER
+HaidaGwaii,HG,817,North Queen Charlotte Islands,North Queen Charlotte Islands,SER-015,6,River Sockeye,SER
+HaidaGwaii,HG,818,West Queen Charlotte Islands,West Queen Charlotte Islands,SER-014,6,River Sockeye,SER
+Yukon,YK,1202,Nordenskiold,CK071-Nordenskiold,CK-071,8,Chinook,CK
+Yukon,YK,1203,Pelly,CK072-Pelly,CK-072,8,Chinook,CK
+Yukon,YK,1204,Middle Yukon River and tributaries,CK073-Middle Yukon River and tributaries,CK-073,8,Chinook,CK
+Yukon,YK,1205,Stewart,CK074-Stewart,CK-074,8,Chinook,CK
+Yukon,YK,1206,White and tributaries,CK075-White and tributaries,CK-075,8,Chinook,CK
+Yukon,YK,1207,Northern Yukon River and tributaries,CK076-Northern Yukon River and tributaries,CK-076,8,Chinook,CK
+Yukon,YK,1208,Salmon Fork,CK077-Salmon Fork,CK-077,8,Chinook,CK
+Yukon,YK,1209,Porcupine,CK078-Porcupine,CK-078,8,Chinook,CK
+Yukon,YK,1210,Old Crow,CK079-Old Crow,CK-079,8,Chinook,CK
+Yukon,YK,1211,Upper Yukon River,CK069-Upper Yukon River,CK-069,8,Chinook,CK
+Yukon,YK,1212,Yukon River-Teslin headwaters,CK068-Yukon River-Teslin headwaters,CK-068,8,Chinook,CK
+Yukon,YK,1213,Middle Yukon River,Middle Yukon River,CM-042,8,Chum,CM
+Yukon,YK,1214,North Yukon River,North Yukon River,CM-043,8,Chum,CM
+Yukon,YK,1215,White River,White River,CM-044,8,Chum,CM
+Yukon,YK,1216,Donjek-Kluane,Donjek-Kluane,CM-045,8,Chum,CM
+Yukon,YK,1217,Porcupine River,Porcupine River,CM-046,8,Chum,CM
+Yukon,YK,1218,Stewart,Stewart,CM-048,8,Chum,CM
+Yukon,YK,1219,Teslin,Teslin,CM-038,8,Chum,CM
+Yukon,YK,1220,Porcupine,Porcupine,CO-046,8,Coho,CO

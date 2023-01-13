@@ -1,21 +1,24 @@
-﻿Field name,Definition
-cuid,
-cuname,
-cu_acronym,
-duid,
-du_number,
-DU_name,
-du_acronym,
-trtc_cu,
-FULL_CU_IN,
-spp,
-gen_length,
-COSEWIC_status,
-last_assessed,
-ca_check_012022,
-Area,
-Species,
-OU No.,
-Outlook Unit Name,
-Conservation Unit,
-SMU,
+﻿Field name,Definition,Notes
+cuid,,
+cuname,,From DFO; from Holtby and Ciruna?
+cu_acronym,,
+duid,SWP ID - from Katy?,
+du_number,From COSEWIC DU reports. ,Potentially confusing with CU numbers
+DU_name,From COSEWIC DU reports,
+du_acronym,From COSEWIC DU reports,
+trtc_cu,TRTC = Total Return Total Catch,Carried over from previous SWP files
+FULL_CU_IN,NuSEDS,Carried over from previous SWP files
+spp,,
+gen_length,,
+COSEWIC_status,From SARA registry,
+last_assessed,From SARA registry,
+ca_check_012022,,
+Area,,
+Species,,
+OU No.,,"Eric sent Clare a decoder between CUs and SMUs that included this field, but Outlook Units are obsolete? Precurser to SMUs?"
+Outlook Unit Name,,"Eric sent Clare a decoder between CUs and SMUs that included this field, but Outlook Units are obsolete? Precurser to SMUs?"
+Conservation Unit,,
+SMU,,All caps in file given to Clare
+,,
+TO add,,
+CU_PSEdisplay name,,
