@@ -25,15 +25,10 @@ These decoder files attempt to relate the following different salmon population 
 |---|---|---|
 |Stream or river populations|Unique combinations of freshwater location, species, and (in some cases) run-timing reported in [NuSEDS](https://open.canada.ca/data/en/dataset/c48669a3-045b-400d-b730-48aafe8c5ee6). May be considered the finest scale at which salmon population data are reported.|`POP_ID`, `streamid`|
 |Conservation Units|In the [Wild Salmon Policy (2005)](https://www.pac.dfo-mpo.gc.ca/fm-gp/salmon-saumon/wsp-pss/index-eng.html), a *Conservation Unit* is a group of wild salmon sufficiently isolated from other groups that, if extirpated, is very unlikely to recolonize naturally within an acceptable time frame, such as a human lifetime. Originally defined by [Holtby and Ciruna (2007)](http://www.dfo-mpo.gc.ca/csas-sccs/publications/resdocs-docrech/2007/2007_070-eng.htm).|`FULL_CU_IN`, `CU_Name`, `cuid`...|
-
 |Stock Management Unit (SMU)|A ‘group of one or more CUs that are managed together with the objective of achieving a joint status’, meaning harvest control rules would apply to the aggregate, at least in a coarse sense. The SMU does not preclude considerations related to conserving CU-level diversity, but rather is a practical aggregation of CUs for harvest planning purposes. That is, it is the scale at which a harvest management plan, or, better, a management and assessment procedure, is developed. In many cases, elements of the PA will be implemented at finer scales of organization within a SMU. The point of developing SMU-specific targets would be to ensure that the cumulative impacts of mixed-stock and terminal fisheries are sustainable.|`SMU`|
-
 |Designatable Unit|[Defined by COSEWIC](https://www.cosewic.ca/index.php/en-ca/reports/preparing-status-reports/guidelines-recognizing-designatable-units.html) as a unit of Canadian biodiversity that is discrete and evolutionarily significant, where discrete means that there is currently very little transmission of heritable (cultural or genetic) information from other such units, and evolutionarily significant means that the unit harbours heritable adaptive traits or an evolutionary history not found elsewhere in Canada.|`duid`, ...|
-
 |Outlook Unit|??|`OU No.`, `Outlook Unit Name`|
-
 |Pacific Fishery Management Unit (PFMA)|Also known as *Statistical Areas*, these are divisions of Canadian fisheries waters and the scale at which commercial catch is reported.|`Area`|
-
 |PSE Region|Spatial region defined by PSF for organizing and displaying data in the [Pacific Salmon Explorer](www.salmonexplorer.ca)|`PSE_region`|
 
 <!---  
