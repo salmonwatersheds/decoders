@@ -1,12 +1,11 @@
 # decoders
-Contains lookup files that relate PSF-assigned IDs to those used by DFO etc. for cross-referencing.
+This repo contains tables and code that facilitate the integration of external datasets into the [Salmon Data Library](https://data.salmonwatersheds.ca/data-library/) and the [Pacific Salmon Explorer](www.salmonexplorer.ca). Specifically, there are tables that relate PSF-assigned IDs (i.e., `streamid` and `cuid`) to those used by DFO and other agencies for cross-referencing. We are also working to also include R code that cleans up [NuSEDS](https://open.canada.ca/data/en/dataset/c48669a3-045b-400d-b730-48aafe8c5ee6) data, for example correcting place names and removing duplicate `POP_ID`s, as is done for the Spawner Surveys data in the [Pacific Salmon Explorer](www.salmonexplorer.ca).
 
-Each lookup file has two pieces: the first contains the actual match ups of IDs and the second (`_definitions`) contains definitions and sources of the different fields. 
-
+Each decoder table has two pieces: the first contains the actual match ups of IDs and the second (`_definitions`) contains definitions and sources of the different fields. 
 
 ## How to use these files
 
-In an attempt to centralize and streamline connections between SWP's datasets and other datasets (e.g., NuSEDS), these are the **go-to decoder files** that connect PSF-assigned `streamid`, `cuid`, `duid` fields, as well as the PSE Regions, to other IDs used for CUs and streams (e.g., NuSEDS' `POP_ID` field).
+In an attempt to centralize and streamline connections between SWP's datasets and other datasets (e.g., [NuSEDS](https://open.canada.ca/data/en/dataset/c48669a3-045b-400d-b730-48aafe8c5ee6)), these are the **go-to decoder tables** that connect PSF-assigned `streamid`, `cuid`, `duid` fields, as well as the PSE Regions, to other IDs used for CUs and streams (e.g., NuSEDS' `POP_ID` field).
 
 To use these files, you can source them in your R code directly from this GitHub repo. For example:
 
@@ -45,4 +44,7 @@ These decoder files attempt to relate the following different salmon population 
 # ** Correcting mistakes - do we do this code wise
 # Aiming to send CU/DU maps to COSEWIC secreteriat
 # 
+# Stream populations: AIm to have a single file that corrects erros in NuSEDS by region?
+# Repo naming
+#
 --->
