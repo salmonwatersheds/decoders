@@ -1,3 +1,20 @@
+#------------------------------------------------------------------------------
+# Ignore files that are not ready to be shared publicly
+#------------------------------------------------------------------------------
+code/data-explore.R
+code/NuSEDS-corrections.R
+
+tables/all_regions_stream_decoder.csv
+
+internal/
+
+#------------------------------------------------------------------------------
+# Standard gitignore for R code
+#------------------------------------------------------------------------------
+
+# HTML knitted version of readme for preview purposes
+README.html
+
 # History files
 .Rhistory
 .Rapp.history
@@ -38,7 +55,3 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-data-explore.R
-NuSEDS-corrections.R
-internal/
-README.html
