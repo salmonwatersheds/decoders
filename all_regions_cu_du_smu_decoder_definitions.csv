@@ -1,0 +1,24 @@
+﻿Field name,Definition,Notes
+cuid,PSF-assigned unique ID for each CU shown in the PSE,
+cuname,Name of the CU from Holtby and Ciruna (2007),From DFO; from Holtby and Ciruna?
+cu_acronym,Short acronymn for matching to ??,Not available for all CUs
+duid,PSF-assigned unique ID for each DU,Check with Katy
+du_number,COSEWIC-assigned alphanumeric code for each DU,Potentially confusing with CU numbers
+DU_name,Full DU name,As displayed in the PSE?
+du_acronym,"Acronymn for the DU, from COSEWIC DU reports",
+trtc_cu,TRTC = Total Return Total Catch,Carried over from previous SWP files
+FULL_CU_IN,Full CU Index from NuSEDS,
+spp,"Species for the CU, one of Chinook, Chum, Coho, Pink, Sockeye-Lake, Sockeye-River",
+gen_length,"Generation length in years, used to calculate the running geometric mean of spawner abundance for trend estimation and biological status assessments",
+COSEWIC_status,The most recent status designation taken from SARA registry,
+last_assessed,The date of the most recent status assessment from the SARA registry,
+ca_check_012022,,
+Area,?,
+Species,,Redundant with column J? Can we remove?
+OU No.,,"Eric sent Clare a decoder between CUs and SMUs that included this field, but Outlook Units are onsolete. Remove?"
+Outlook Unit Name,,"Eric sent Clare a decoder between CUs and SMUs that included this field, but Outlook Units are onsolete. Remove?"
+Conservation Unit,"Merge of species qualified code (i.e., separating PKE, PKO and SEL, SER) and cuname",DO we need this?
+SMU,"The Stock Management Unit, as defined by DFO","All caps in file given to Clare, do we have a display name version? smuid?"
+,,
+To add,,
+CU_PSEdisplay name,,

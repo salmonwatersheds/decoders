@@ -4,7 +4,7 @@ cuname,,From DFO; from Holtby and Ciruna?
 cu_acronym,,
 duid,SWP ID - from Katy?,
 du_number,From COSEWIC DU reports. ,Potentially confusing with CU numbers
-DU_name,From COSEWIC DU reports,
+DU_name,From COSEWIC DU reports,"SP made a few corrections where there were errors in names (e.g., ?). Is this field used to cross reference to other tables? Or can we clean up the a names to make them consistent (spacing, dashes, acronymns like E vs East and Is vs Island)"
 du_acronym,From COSEWIC DU reports,
 trtc_cu,TRTC = Total Return Total Catch,Carried over from previous SWP files
 FULL_CU_IN,NuSEDS,Carried over from previous SWP files
